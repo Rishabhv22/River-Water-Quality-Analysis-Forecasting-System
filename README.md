@@ -255,11 +255,10 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Authors
+## 👨‍💻 Author
 
-### Bhargav Godbole
 ### Rishabh Vyas
-### Vatsal Thummar
+
 
 Bachelor of Technology (Computer Science & Engineering)
 
